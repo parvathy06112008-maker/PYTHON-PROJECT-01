@@ -1,1 +1,1 @@
-print(" school project <3 ")
+print(" school project")
